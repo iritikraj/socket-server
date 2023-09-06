@@ -16,3 +16,4 @@ To get started with this project, follow these steps:
 1. Clone this repository to your local machine using git clone command.
 2. Switch to projects folder and run `npm install` for the node package installation.
 3. To start server run `node socket-server.js`
+4. To see end to end reslt make sure to checkout [client-side](https://github.com/iritikraj/client-application) application
